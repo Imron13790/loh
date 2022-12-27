@@ -1,0 +1,118 @@
+div 
+{
+  border-radius: 20px;
+  background-color: #f2f2f2;
+  padding: 50px;
+  margin: 100px;
+  margin-top: 50px;
+}
+
+#green
+{
+  width: 10%;
+  background-color: #45a049;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 8px;
+}
+#green:hover
+{
+  background-color : #3d8b41;
+}
+
+#red 
+{
+  width: 10%;
+  background-color: #e4460d;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#red:hover
+{
+  background-color : #c44214;
+}
+
+#blue
+{
+  width: 10%;
+  background-color: #1e79d4;
+  color: white;
+  padding: 14px ;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 8px;
+}
+#blue:hover
+{
+  background-color: #185a9c;
+}
+
+#yellow
+{
+  width: 10%;
+  background-color: #d4a720;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+#yellow:hover
+{
+  background-color : #c59b1e;
+}
+
+
+#update
+{
+  width: 10%;
+  background-color: #45a049;
+  color: white;
+  padding: 8px 15px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 8px;
+}
+#update:hover
+{
+  background-color: #3d8b41;
+}
+
+#delete
+{
+  width: 10%;
+  background-color: #e4460d;
+  color: white;
+  padding: 8px 20px;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 8px;
+}
+#delete:hover
+{
+  background-color: #c44214;
+}
+
+#ct
+{
+  text-align: center;
+}
+
+
+
+

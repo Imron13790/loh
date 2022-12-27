@@ -1,0 +1,59 @@
+div 
+{
+  border-radius: 20px;
+  background-color: #f2f2f2;
+  padding: 50px;
+  margin: 100px;
+  margin-top: 50px;
+}
+
+input[type=text], select 
+{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+#green
+{
+  width: 100%;
+  background-color: #45a049;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#green:hover
+{
+  background-color: #3d8b41;
+}
+
+#blue
+{
+  width: 100%;
+  background-color: #1e79d4;
+  color: white;
+  padding: 14px ;
+  margin: 8px ;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+#blue:hover
+{
+  background-color: #185a9c;
+}
+
+
+.hubi
+{
+
+  height: 10px;
+}
